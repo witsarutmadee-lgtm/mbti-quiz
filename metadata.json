@@ -1,0 +1,6 @@
+{
+  "name": "แบบทดสอบบุคลิกภาพ MBTI",
+  "description": "แอปพลิเคชันทำแบบทดสอบบุคลิกภาพ MBTI 40 ข้อ พร้อมวิเคราะห์ผลลัพธ์และจุดเด่นอย่างละเอียด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
