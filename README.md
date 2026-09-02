@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/2eb0ea8d-9daa-4c63-bf08-f830b233d690
+View your app in AI Studio: https://my-mbti-quiz.vercel.app
 
 ## Run Locally
 
