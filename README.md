@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://cracker.vercel.app
+View your app in AI Studio: https://ais-pre-lrfb3p5t34mddlutkjqmhq-830356276225.asia-east1.run.app
 
 ## Run Locally
 
